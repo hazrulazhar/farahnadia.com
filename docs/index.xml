@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farah Nadia Jamalludin on Farah Nadia Jamalludin. A passionate and accomplished Malay language teacher, poet, writer and game designer.</title>
+    <link>//www.farahnadia.com/</link>
+    <description>Recent content in Farah Nadia Jamalludin on Farah Nadia Jamalludin. A passionate and accomplished Malay language teacher, poet, writer and game designer.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-SG</language>
+    <copyright>&amp;copy;2019 Farah Nadia</copyright>
+    
+	<atom:link href="//www.farahnadia.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

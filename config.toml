@@ -1,0 +1,64 @@
+baseURL = "//www.farahnadia.com"
+languageCode = "en-SG"
+title = "Farah Nadia Jamalludin. A passionate and accomplished Malay language teacher, poet, writer and game designer."
+theme = "hugo-split-theme"
+publishDir = "docs"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2019 Farah Nadia"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  blog = "/:filename/"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Instagram"
+    pre = "edit"
+    url = "https://www.instagram.com/theaccidentalodist/"
+    weight = 2
+  [[menu.main]]
+    name = "Facebook"
+    pre = "tag"
+    url = "https://www.facebook.com/farahnadia.jamalludin.3"
+    weight = 3
+  
+[params]
+  dateFormat = "Jan 2, 2006"
+
+# Metadata for search engines and social sharing
+  author = "Farah Nadia"
+  description = "Farah Nadia Jamalludin. A passionate and accomplished Malay language teacher, poet, writer and game designer."
+  shareImage = "nadbg1.jpg"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "nadbg1.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
