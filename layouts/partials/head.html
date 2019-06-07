@@ -31,7 +31,7 @@
 {{ if .Site.Params.visual.image.enable }}
   <style>
   {{ if .Site.Params.visual.image.file }}
-    .fs-split .split-image { background-image: url("{{ "nadbg" | absURL }}{{ index (seq 4 | shuffle) 0 }}.jpg"); background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }}; }
+    .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.file | absURL }}"); background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }}; }
   {{ end }}
   {{ if $.Param "background" }}
     .fs-split .split-image { background-image: url("{{ $.Param "background" | absURL }}")!important; }

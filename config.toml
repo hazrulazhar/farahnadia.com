@@ -54,7 +54,7 @@ copyright = "&copy;2019 Farah Nadia"
     [params.visual.image]
       enable = true
       file = "nadbg1.jpg"
-      position = "center center"
+      position = "right center"
 
     # Video
     [params.visual.video]
