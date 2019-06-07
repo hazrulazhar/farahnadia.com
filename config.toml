@@ -35,6 +35,11 @@ copyright = "&copy;2019 Farah Nadia"
     pre = "tag"
     url = "https://www.facebook.com/farahnadia.jamalludin.3"
     weight = 3
+  [[menu.main]]
+    name = "Husband"
+    pre = "tag"
+    url = "https://www.hazrulazhar.com"
+    weight = 3
   
 [params]
   dateFormat = "Jan 2, 2006"
