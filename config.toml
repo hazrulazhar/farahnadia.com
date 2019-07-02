@@ -5,7 +5,7 @@ theme = "hugo-split-theme"
 publishDir = "docs"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-103684164-2"
 
 # Copyright
 copyright = "&copy;2019 Farah Nadia"
