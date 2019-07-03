@@ -21,7 +21,7 @@ I'm a Malay language teacher with the [Ministry of Education, Singapore](https:/
 
 I've had the pleasure of working with a team at MOE to publish these books as part of MK learning resources.
 
-Check out the [books at the National Library](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ/10045440?QRY=CAUBIB%3C%20IRN(98735680)&QRYTEXT=Farah%20Nadia%20Jamalludin).
+Check out the [books at the National Library](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?optionsDrop=Full+Catalogue&ENTRY=farah+nadia+jamalludin&ENTRY_NAME=BS&ENTRY_TYPE=K&SORTS=SQL_REL_BIB&GQ=farah+nadia+jamalludin&ISGLB=0&NRECS=20&QRY=&QRYTEXT=&FORCESORT=1).
 
 ## Poetry Published
 
